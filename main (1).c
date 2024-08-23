@@ -5,7 +5,7 @@ int main(){
     n = 20;
     while(n >1){
         if(n%2==0){
-            printf("%d ", n);
+            printf("%i ", n);
         }
         n = n - 1;
     }
